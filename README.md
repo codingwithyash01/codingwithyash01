@@ -10,7 +10,6 @@ Aspiring **Software Engineer** with a strong foundation in **Java**, **DSA**, **
 - 🎯 Preparing for **Software Engineering roles** at top tech companies.
 - 🎥 Creating educational content on **DSA and Web Development** for aspiring programmers.
 - 📖 Constantly improving my **problem-solving skills** by practicing coding challenges.
-- 🏋️ Focused on maintaining a **healthy lifestyle** with regular workouts and a balanced diet.
 
 ## 💡 Tech Stack
 
